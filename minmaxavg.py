@@ -1,0 +1,6 @@
+n=int(input("Enter the no.of elements:"))
+a=eval(input("enter list"))
+b=min(a)
+c=max(a)
+d=sum(a)/len(a)
+print('min-',b,'max-',c,'avg-',d)
